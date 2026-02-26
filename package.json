@@ -44,6 +44,6 @@
     "solhint": "^5.0.3",
     "tiny-secp256k1": "^2.2.3",
     "ts-node": "^10.9.2",
-    "typescript": "^5.4.3"
+    "typescript": "^5.9.3"
   }
 }
